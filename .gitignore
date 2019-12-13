@@ -1,0 +1,19 @@
+# Ignore everything
+*
+
+# Except
+!readme.md
+!docs
+!docs/**
+!src
+!src/**
+!.gitignore
+!package.json
+!gulpfile.js
+!tsconfig.json
+!tslint.json
+!yarn.lock
+!makefile
+!jest.config.js
+!gulp/**
+!gulp
